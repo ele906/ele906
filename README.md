@@ -2,8 +2,8 @@
 
 CS student at Princeton (Stats & ML minor) who likes building full-stack apps, data pipelines, and ML systems.
 
-- 🔭 Building **[Hooked](https://hooked-e36.onrender.com)** — a music discovery app with a NeuMF recommendation engine, a from-scratch title-generation transformer, and MusicGen-powered audio generation
 - 🔬 Doing independent research at Princeton on fairness & interpretability in diffusion models, advised by Prof. Vikram Ramaswamy
+- 🎵 Built **[Hooked](https://hooked-e36.onrender.com)** — a music discovery app with a NeuMF recommendation engine, a from-scratch title-generation transformer, and MusicGen-powered audio generation
 - 🪿 Outside of code: astronomy and geese (yes, really — check out my [Goose Flock Simulation](https://ele906.github.io/GooseGame/))
 - 🌐 Portfolio: [ele906.github.io/portfolio-website](https://ele906.github.io/portfolio-website/)
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/ele906) · e36@princeton.edu
@@ -22,8 +22,8 @@ CS student at Princeton (Stats & ML minor) who likes building full-stack apps, d
 
 #### Featured Projects
 
-**[Hooked](https://github.com/ele906/hooked)** — music discovery app: neural collaborative filtering recommendations, a decoder-only transformer for song titles, and MusicGen for audio generation.
-
 **[Debiasing Diffusion Models with Sparse Autoencoders](https://github.com/ele906/sae-demo-notebooks)** — interactive notebooks for SDXL generation and sparse autoencoder experiments related to fairness and interpretability in diffusion models.
+
+**[Hooked](https://github.com/ele906/hooked)** — music discovery app: neural collaborative filtering recommendations, a decoder-only transformer for song titles, and MusicGen for audio generation.
 
 **[Goose Flock Simulation](https://github.com/ele906/GooseGame)** — predator-prey dynamics simulation using stochastic methods.
