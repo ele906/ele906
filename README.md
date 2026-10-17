@@ -2,7 +2,7 @@
 
 CS student at Princeton (Stats & ML minor) who likes building full-stack apps, data pipelines, and ML systems.
 
-- 🔬 Doing independent research at Princeton on fairness & interpretability in diffusion models, advised by Prof. Vikram Ramaswamy
+- 🔬 Doing independent research at Princeton on [fairness & interpretability in diffusion models](https://github.com/ele906/sae-demo-notebooks), advised by [Prof. Vikram Ramaswamy](https://www.cs.princeton.edu/~vr23/)
 - 🎵 Built **[Hooked](https://hooked-e36.onrender.com)** — a music discovery app with a NeuMF recommendation engine, a from-scratch title-generation transformer, and MusicGen-powered audio generation
 - 🪿 Outside of code: astronomy and geese (yes, really — check out my [Goose Flock Simulation](https://ele906.github.io/GooseGame/))
 - 🌐 Portfolio: [ele906.github.io/portfolio-website](https://ele906.github.io/portfolio-website/)
